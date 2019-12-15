@@ -1,0 +1,3 @@
+[console_scripts]
+Autostart-app = Autostart_app.autostart_create:main
+
